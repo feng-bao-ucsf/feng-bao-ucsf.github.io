@@ -30,7 +30,7 @@ Decomposing cell heterogeneity of complex biological systems is an important ste
 
 ### **Deep association kernel learning to explain the genetic causality for complex diseases**
 
-<img style="float: left;" src = "/image/cover.jpeg" width ="200" />|
+<img style="float: left;" src = "/image/cover.jpeg" width ="200" />
 Causal loci contribute to complex diseases in various manners. The comprehensive identification of suspicious genes requires a general genome-wide association study (GWAS) model that can work with different types of genetic effects. Here, we try to use a trainable framework to automatically detect these associated positions meanwhile provide a statistical significance quantification. This work was published as a cover paper in the new Machine Learning Journal of Cell Press [_Patterns_](https://www.sciencedirect.com/journal/patterns/vol/1/issue/6).
 
 
