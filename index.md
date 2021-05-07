@@ -38,7 +38,7 @@ Causal loci contribute to complex diseases in various manners. The comprehensive
 
 
 
-### **scScope for single-cell RNAseq**
+### **Recurrent neural network for single-cell RNAseq imputations**
 
 scScope is a deep-learning based approach that can accurately and rapidly identify cell-type composition and transcriptional state from noisy single-cell gene-expression profiles containing dropout events and scale to millions of cells. This work was published in _Nature Methods_.
 
