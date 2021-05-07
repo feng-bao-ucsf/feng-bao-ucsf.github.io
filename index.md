@@ -26,6 +26,8 @@ Decomposing cell heterogeneity of complex biological systems is an important ste
 
 [\[Project Page\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Code\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Manuscript\]](https://www.biorxiv.org/content/10.1101/2020.09.05.284539v1.abstract)
 
+> Citation: 
+> Characterizing tissue composition through combined analysis of morphologies and transcriptional states. Feng Bao<sup>\*</sup>, Yue Deng<sup>\*</sup>, Sen Wan, Bo Wang, Qionghai Dai<sup>\#</sup>, Steven J. Altschuler<sup>\#</sup>, Lani F. Wu<sup>\#</sup>
 
 
 ### **Deep association kernel learning to explain the genetic causality for complex diseases**
@@ -36,6 +38,9 @@ Causal loci contribute to complex diseases in various manners. The comprehensive
 
 [\[Project Page\]](https://github.com/feng-bao-ucsf/DAK) [\[Code\]](https://github.com/feng-bao-ucsf/DAK) [\[Publication\]](https://www.sciencedirect.com/science/article/pii/S2666389920300684)
 
+> Citation: 
+> Bao, Feng, et al. "Explaining the Genetic Causality for Complex Phenotype via Deep Association Kernel Learning." Patterns 1.6 (2020): 100057. 
+
 
 
 ### **Recurrent neural network for single-cell RNAseq imputations**
@@ -44,6 +49,9 @@ scScope is a deep-learning based approach that can accurately and rapidly identi
 
 [\[Project Page\]](https://github.com/AltschulerWu-Lab/scScope) [\[Code\]](https://github.com/AltschulerWu-Lab/scScope) [\[Publication\]](https://www.nature.com/articles/s41592-019-0353-7)
 ![image](/image/scscope.png)
+
+> Citation: 
+> Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning. Yue Deng\*, Feng Bao\*, Qionghai Dai, Lani F. Wu#, Steven J. Altschuler#, Nature Methods, 2019, DOI: https://doi.org/10.1038/s41592-019-0353-7
 
 [Full list on Google Scholar](https://scholar.google.com/citations?user=I0mcA3MAAAAJ&hl=en)
 
