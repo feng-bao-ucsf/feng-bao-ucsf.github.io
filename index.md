@@ -9,9 +9,9 @@ Contact: feng.bao with the suffix @ucsf.edu
 ### Research interests
 
 - **Recent focus on machine learning** 
-1. Deep learning architectures (with multimodal inputs)
+1. Deep learning architectures with multimodal inputs
 2. Variational information theoretic methods
-3. Adversarial learning 
+3. Adversarial learning for distribution constrains 
 
 - **Recent focus on biological questions**
 1. Quantify interactions across multiple single-cell modalities
