@@ -9,7 +9,7 @@ Contact: feng.bao with the suffix @ucsf.edu
 ## Research interests
 
 - **Recent focus on machine learning** 
-1. Deep learning architectures with multimodal inputs
+1. Architectures to disentangle information within multi-modal/-omics inputs 
 2. Variational information theoretic methods
 3. Adversarial learning for distribution constrains 
 
@@ -46,7 +46,9 @@ Causal loci contribute to complex diseases in various manners. The comprehensive
 scScope is a deep-learning based approach that can accurately and rapidly identify cell-type composition and transcriptional state from noisy single-cell gene-expression profiles containing dropout events and scale to millions of cells. This work was published in _Nature Methods_.
 
 [\[Project Page\]](https://github.com/AltschulerWu-Lab/scScope) [\[Code\]](https://github.com/AltschulerWu-Lab/scScope) [\[Publication\]](https://www.nature.com/articles/s41592-019-0353-7)
-![image](/image/scscope.png)
+
+<img style="float: left;" src = "/image/scscope.png" width ="500" />
+<!-- ![image](/image/scscope.png) -->
 
 > Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning. Yue Deng\*, Feng Bao\*, Qionghai Dai, Lani F. Wu#, Steven J. Altschuler#, Nature Methods, 2019, DOI: https://doi.org/10.1038/s41592-019-0353-7
 
@@ -62,7 +64,7 @@ Reviewer for the following journals:
 - Briefings in Bioinformatics
 - IEEE Journal of Selected Topics in Signal Processing
 
-_last update: May 7, 2021_
+_last update: May 27, 2021_
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102911962-1"></script>
