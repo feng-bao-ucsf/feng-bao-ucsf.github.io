@@ -18,7 +18,9 @@ Contact: feng.bao with the suffix @ucsf.edu
 2. Improve throughput of spatially resolved transcriptomics statistically
 3. Model multiomics responses of disease or drug perturbations
 
-## Recent works 
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=I0mcA3MAAAAJ&hl=en)
+
+## Recent works
 
 ### **Multi-modality structured embedding for spatially resolved transcriptomics analysis**
 
@@ -52,7 +54,7 @@ scScope is a deep-learning based approach that can accurately and rapidly identi
 
 > Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning. Yue Deng\*, Feng Bao\*, Qionghai Dai, Lani F. Wu#, Steven J. Altschuler#, Nature Methods, 2019, DOI: https://doi.org/10.1038/s41592-019-0353-7
 
-[Full list on Google Scholar](https://scholar.google.com/citations?user=I0mcA3MAAAAJ&hl=en)
+
 
 
 ### Academic service
@@ -64,7 +66,7 @@ Reviewer for the following journals:
 - Briefings in Bioinformatics
 - IEEE Journal of Selected Topics in Signal Processing
 
-_last update: May 27, 2021_
+_last update: Sep 15, 2021_
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102911962-1"></script>
