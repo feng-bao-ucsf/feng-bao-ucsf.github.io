@@ -1,6 +1,6 @@
 # Feng Bao
 
-I am a Postdoc working at [Altschuler and Wu lab](https://www.altschulerwulab.org/),  University of California, San Francisco. I obtained my PhD from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019. My research involves general machine learning approaches and their applications to biological and medical studies. 
+I am a Postdoc working at [Altschuler and Wu lab](https://www.altschulerwulab.org/),  University of California, San Francisco. I obtained my PhD from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019. My research involves general learning approaches and their applications to biological and medical studies. 
 
 ```markdown
 Contact: feng.bao with the suffix @ucsf.edu
