@@ -28,7 +28,7 @@ Decomposing cell heterogeneity of complex biological systems is an important ste
 
 [\[Project Page\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Code\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Manuscript\]](https://www.biorxiv.org/content/10.1101/2020.09.05.284539v1.abstract)
 
-> Characterizing tissue composition through combined analysis of morphologies and transcriptional states. Feng Bao<sup>\*</sup>, Yue Deng<sup>\*</sup>, Sen Wan, Bo Wang, Qionghai Dai<sup>\#</sup>, Steven J. Altschuler<sup>\#</sup>, Lani F. Wu<sup>\#</sup>. Accepted by Nature Biotechnology.
+> Characterizing tissue composition through combined analysis of morphologies and transcriptional states. Feng Bao<sup>\*</sup>, Yue Deng<sup>\*</sup>, Sen Wan, Bo Wang, Qionghai Dai<sup>\#</sup>, Steven J. Altschuler<sup>\#</sup>, Lani F. Wu<sup>\#</sup>. Will appear in Nature Biotechnology.
 
 
 ### **Deep association kernel learning to explain the genetic causality for complex diseases**
