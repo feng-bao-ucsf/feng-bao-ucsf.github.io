@@ -26,9 +26,9 @@ Contact: feng.bao with the suffix @ucsf.edu
 
 Decomposing cell heterogeneity of complex biological systems is an important step to the comprehensive understanding of their organizations and mechanisms. Transcrptomics and imaging are two most widely used approaches to study tissue heterogeneity. Here we try to combine information from these two modalities and provide more extensive dissection of subpopulations in tissues. We follow two principles in design: (1) structured information from single modality (e.g. apparent subpopulations) are preserved after combinations; (2) corrupted information in one modality will not pollute the others. 
 
-[\[Project Page\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Code\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Manuscript\]](https://www.biorxiv.org/content/10.1101/2020.09.05.284539v1.abstract)
+[\[Project Page\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Code\]](https://github.com/AltschulerWu-Lab/MUSE) [\[Publication\]](https://doi.org/10.1038/s41587-022-01251-z)
 
-> Characterizing tissue composition through combined analysis of morphologies and transcriptional states. Feng Bao<sup>\*</sup>, Yue Deng<sup>\*</sup>, Sen Wan, Bo Wang, Qionghai Dai<sup>\#</sup>, Steven J. Altschuler<sup>\#</sup>, Lani F. Wu<sup>\#</sup>. Will appear in Nature Biotechnology.
+> Characterizing tissue composition through combined analysis of morphologies and transcriptional states. Feng Bao<sup>\*</sup>, Yue Deng<sup>\*</sup>, Sen Wan, Bo Wang, Qionghai Dai<sup>\#</sup>, Steven J. Altschuler<sup>\#</sup>, Lani F. Wu<sup>\#</sup>. Nature Biotechnology. https://doi.org/10.1038/s41587-022-01251-z
 
 
 ### **Deep association kernel learning to explain the genetic causality for complex diseases**
