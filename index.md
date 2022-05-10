@@ -61,6 +61,7 @@ scScope is a deep-learning based approach that can accurately and rapidly identi
 Reviewer for the following journals:
 - Cell Systems
 - Nature Communications
+- Genome Biology
 - IEEE Transactions on Fuzzy Systems
 - IEEE Transactions on Neural Networks and Learning Systems
 - Briefings in Bioinformatics
