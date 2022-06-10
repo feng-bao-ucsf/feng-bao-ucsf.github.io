@@ -11,7 +11,7 @@ Contact: feng.bao with the suffix @ucsf.edu
 - **Recent focus on statistical learning** 
 1. Architectures to disentangle information within multi-modal/-omics inputs 
 2. Variational information theoretic methods
-3. Adversarial learning for distribution constrains 
+3. Adversarial learning for distribution constraints 
 
 - **Recent focus on biological questions**
 1. Quantify interactions across multiple single-cell modalities
