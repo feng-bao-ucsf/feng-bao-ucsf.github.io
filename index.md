@@ -67,9 +67,9 @@ Reviewer for the following journals:
 - Briefings in Bioinformatics
 - IEEE Journal of Selected Topics in Signal Processing
 
-_last update: March 31, 2022_
+_last update: Nov 15, 2023_
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102911962-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
