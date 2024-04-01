@@ -1,6 +1,6 @@
 # Feng Bao
 
-I am a Postdoc working at [Altschuler and Wu lab](https://www.altschulerwulab.org/),  University of California, San Francisco. I obtained my PhD from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019. My research involves general learning approaches and their applications to biological and medical studies. 
+I am a Postdoc working at [Altschuler and Wu lab](https://www.altschulerwulab.org/),  University of California, San Francisco. I obtained my PhD from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019. My research involves general learning approaches and their applications to biological and medical studies as well as drug screens. 
 
 ```markdown
 Contact: feng.bao with the suffix @ucsf.edu
@@ -21,6 +21,10 @@ Contact: feng.bao with the suffix @ucsf.edu
 [Full publication list on Google Scholar](https://scholar.google.com/citations?user=I0mcA3MAAAAJ&hl=en)
 
 ## Recent works
+
+### In progress
+- Integration of drug screens
+- Spatial multiomics
 
 ### **Multi-modality structured embedding for spatially resolved transcriptomics analysis**
 
@@ -67,7 +71,7 @@ Reviewer for the following journals:
 - Briefings in Bioinformatics
 - IEEE Journal of Selected Topics in Signal Processing
 
-_last update: Nov 15, 2023_
+_last update: April 1st, 2024_
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102911962-1"></script>
