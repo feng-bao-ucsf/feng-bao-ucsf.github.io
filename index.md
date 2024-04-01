@@ -23,8 +23,9 @@ Contact: feng.bao with the suffix @ucsf.edu
 ## Recent works
 
 ### In progress
-- Integration of drug screens
-- Spatial multiomics
+- Integration of high-content imaging-based drug screens.
+- Hypioxia multiomics.
+- Spatial multiomics.
 
 ### **Multi-modality structured embedding for spatially resolved transcriptomics analysis**
 
