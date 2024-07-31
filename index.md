@@ -68,6 +68,9 @@ scScope is a deep-learning based approach that can accurately and rapidly identi
 
 ### Academic service
 Reviewer for the following journals:
+- Cell (but the editor seemed to forget my comments)
+- Nature Biotech.
+- Nature Biomedical Eng. 
 - Cell Systems
 - Nature Communications
 - Genome Biology
