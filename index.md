@@ -27,6 +27,10 @@ Contact: feng.bao with the suffix @ucsf.edu
 - Hypioxia multiomics.
 - Spatial multiomics.
 
+### **Enhancing the spatial resolution of diverse spatial omics platforms by joint generative modeling of space, image and omics**
+
+Tissue image (e.g., H&E) is always available along with the generation of spatial omics data. A typical tissue image can be in extremely high resolution compared with the spatial omics resolution, with at least millions of pixels (1 million is just 1000 x 1000 pixels). A natual idea is to use the high-resolution image to guide the enhancement of low-resolution omics. We tested this idea through a generative modeling of spatial coordinates, image and omics. It works for different omics types, spatial technologies and the recently emerging spatial multiomics. The work is in pubication process in Nature Communications. 
+
 ### **Multi-modality structured embedding for spatially resolved transcriptomics analysis**
 
 Decomposing cell heterogeneity of complex biological systems is an important step to the comprehensive understanding of their organizations and mechanisms. Transcrptomics and imaging are two most widely used approaches to study tissue heterogeneity. Here we try to combine information from these two modalities and provide more extensive dissection of subpopulations in tissues. We follow two principles in design: (1) structured information from single modality (e.g. apparent subpopulations) are preserved after combinations; (2) corrupted information in one modality will not pollute the others. 
@@ -72,7 +76,7 @@ Reviewer for the following journals:
 - Briefings in Bioinformatics
 - IEEE Journal of Selected Topics in Signal Processing
 
-_last update: April 1st, 2024_
+_last update: Jul 31st, 2024_
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102911962-1"></script>
