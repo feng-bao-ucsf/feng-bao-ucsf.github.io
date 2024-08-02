@@ -29,7 +29,7 @@ Contact: feng.bao with the suffix @ucsf.edu
 
 ### **Enhancing the spatial resolution of diverse spatial omics platforms by joint generative modeling of space, image and omics**
 
-Tissue image (e.g., H&E) is always available along with the generation of spatial omics data. A typical tissue image can be in extremely high resolution compared with the spatial omics resolution, with at least millions of pixels (1 million is just 1000 x 1000 pixels). A natual idea is to use the high-resolution image to guide the enhancement of low-resolution omics. We tested this idea through a generative modeling of spatial coordinates, image and omics. It works for different omics types, spatial technologies and the recently emerging spatial multiomics. The work was published in [*Nature Communications*](https://www.nature.com/articles/s41467-024-50837-5). 
+Tissue image (e.g., H&E) is always available along with the generation of spatial omics data. A typical tissue image can be in extremely high resolution (usually at least millions of pixels, note 1 million is just 1000 x 1000 pixels, smaller than the resolution of an iPhone photo) compared with the spatial omics resolution (usually in thousands). A natual idea is to use the high-resolution image to guide the enhancement of low-resolution omics. We tested this idea through a generative modeling of spatial coordinates, image and omics. It works for different omics types, spatial technologies and the recently emerging spatial multiomics. The work was published in [*Nature Communications*](https://www.nature.com/articles/s41467-024-50837-5). 
 
 ### **Multi-modality structured embedding for spatially resolved transcriptomics analysis**
 
